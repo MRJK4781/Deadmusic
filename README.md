@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ˹ɴɪᴅʜɪ ✘ ᴍᴜsɪᴄ˼ 」──
+    ──「 ˹ᴅᴇᴀᴅ ✘ ᴍᴜsɪᴄ˼ 」──
 </h2>
 
 <p align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/itsneerja/NidhiMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/itsneerja/Deadmusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
